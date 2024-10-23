@@ -1,9 +1,8 @@
 # CyberSec-Project
 
-	
-# !pip install lazypredict
-# !pip install lime
+1) !pip install lazypredict
+2) !pip install lime
 
-Use Google Coolab/ Visual Studio to run the cells
+3) Use Google Coolab/ Visual Studio to run the cells
 
-You wll get the output of each cell once you run it
+4) You wll get the output of each cell once you run it
